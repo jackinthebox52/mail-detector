@@ -1,2 +1,6 @@
 images/*.jpg
 **.zip
+**.mp4
+**.m3u8
+**.ts
+.venv
